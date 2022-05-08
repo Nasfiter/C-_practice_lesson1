@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// программа деления 
+double numberA = 10;
+int numberB = 7;
+Console.WriteLine(numberA / numberB);
